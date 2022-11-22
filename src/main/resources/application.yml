@@ -1,0 +1,13 @@
+server:
+  port: 5454
+  error:
+    whitelabel:
+      enabled: false
+      
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/views/
+      suffix: .jsp
+hostIp : 13.231.166.216
+
